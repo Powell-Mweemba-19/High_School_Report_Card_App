@@ -3,5 +3,5 @@ This is a School project in Android Development that will be Contributed to by F
 hello i have added my name to this file 
 Name: Alexander Musonda
 Role Developer
-Alex
+Alex Mwenya
 Role develoer
